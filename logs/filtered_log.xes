@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<extension name="Lifecycle" prefix="lifecycle" uri="http://www.xes-standard.org/lifecycle.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="concept:name" value="0x086df6e3f2d71db8a35551b85947d4ea35e4146d" />
+		<event>
+			<string key="concept:name" value="stake" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="stake" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="stake" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="stake" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="stake" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="stake" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="stake" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="stake" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="stake" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="stake" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="stake" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="0x1816b49f75952c3c5684b933e9d90cbd5aa4c207" />
+		<event>
+			<string key="concept:name" value="stake" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="stake" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="0x37bf5fa7f48b9d3e19d57d2edd49d528a90c74ff" />
+		<event>
+			<string key="concept:name" value="0x60806040" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="setTokenContract" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="createTournament" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="createTournament" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="closeTournament" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="createTournament" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="rewardRoto" />
+			<string key="lifecycle:transition" value="complete" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+		</event>
+	</trace>
+</log>

@@ -1,0 +1,4 @@
+Fitness for inductive_miner:
+Average trace fitness: 0.9954
+Percentage of fitting traces: 66.6667%
+(Based on a sample of 50 traces)

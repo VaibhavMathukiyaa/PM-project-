@@ -1,0 +1,4 @@
+Fitness for dfg_miner:
+Average trace fitness: 0.4296
+Percentage of fitting traces: 0.0000%
+(Based on a sample of 50 traces)

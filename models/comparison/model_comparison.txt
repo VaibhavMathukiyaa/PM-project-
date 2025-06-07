@@ -1,0 +1,8 @@
+Model Comparison
+===============
+
+Metric         | DFG Miner | Inductive Miner
+---------------|-----------|----------------
+Fitness         | 0.4296    | 0.9954
+Precision       | 0.0000    | 0.0000
+Align. Fitness  | 0.0000    | 0.0000

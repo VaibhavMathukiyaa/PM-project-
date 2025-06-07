@@ -1,0 +1,22 @@
+Log Summary
+===========
+
+Number of traces: 100
+Number of events: 63
+Number of unique activities: 6
+Activities:
+  - rewardRoto: 81
+  - stake: 13
+  - createTournament: 3
+  - 0x60806040: 1
+  - setTokenContract: 1
+  - closeTournament: 1
+
+Number of variants: 3
+Top 5 variants:
+  Variant 1 (occurs 1 times):
+    ('stake', 'stake', 'stake', 'stake', 'stake', 'stake', 'stake', 'stake', 'stake', 'stake', 'stake')
+  Variant 2 (occurs 1 times):
+    ('stake', 'stake')
+  Variant 3 (occurs 1 times):
+    ('0x60806040', 'setTokenContract', 'createTournament', 'rewardRoto', 'createTournament', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'closeTournament', 'createTournament', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto', 'rewardRoto')
